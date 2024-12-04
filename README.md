@@ -24,10 +24,16 @@
 
 1. 克隆仓库：
    ```bash
-   git clone https://github.com/yourusername/simple-canvas.git
+   [git clone https://github.com/3034337688/MiniCanvers.git]
    ```
 2. 在您喜欢的开发环境中打开项目。
-3. 使用提供的构建脚本构建项目。
+3. 构建:
+   ```bash
+   [g++.exe E:/Desktop/kk/test2.cpp -o E:/Desktop/kk/untitled1.exe -finput-charset=UTF-8 -fexec-charset=gbk -g3 -pipe -Wall -D_DEBUG -DUNICODE -D_UNICODE -mwindows -LE:/Desktop/curl-8.11.0_2-win64-mingw/curl-8.11.0_2-win64-mingw/lib -Wl,--stack,12582912 -LC:\Windows\System32 -lgdi32 -luser32 -lcomctl32 -lcomdlg32 -lgdiplus -lshlwapi -static]
+   
+   ```
+4.注意：把路径替换为文件路径。
+5. 使用提供的构建脚本构建项目。
 
 ## 使用
 
@@ -51,4 +57,4 @@
 
 ---
 
-由 [别看着我笑了](https://github.com/yourusername) 制作，感谢您的支持！
+由 [别看着我笑了](https://baidu.com) 制作，感谢您的支持！
