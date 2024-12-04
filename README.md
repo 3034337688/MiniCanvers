@@ -16,9 +16,9 @@
 
 ## 截图
 
-![截图1](![image](https://github.com/user-attachments/assets/ab26c53d-7965-4cc4-b720-342097544cf4)
+![截图1](![image](@6CUK}EE8S4SJA5VNV~$7}2.png)
 )
-![截图2](screenshots/screenshot2.png)
+![截图2](@6CUK}EE8S4SJA5VNV~$7}2.png)
 
 ## 安装
 
